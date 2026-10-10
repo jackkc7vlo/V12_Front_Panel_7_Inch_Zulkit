@@ -1,0 +1,20 @@
+# FreeCAD documents are binary; do not attempt text merges
+*.FCStd binary
+*.FCStd1 binary
+*.FCStd2 binary
+
+# Common exported CAD formats are binary or should not be text-merged
+*.step binary
+*.stp binary
+*.stl binary
+*.3mf binary
+
+# Normalize line endings for text-based project files
+*.FCMacro text eol=lf
+*.py text eol=lf
+*.FCMat text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf

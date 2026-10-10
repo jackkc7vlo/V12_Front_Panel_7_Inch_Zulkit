@@ -1,0 +1,26 @@
+# FreeCAD backup and recovery files
+*.FCStd1
+*.FCStd2
+*.FCBak
+*.FCSave
+*.FCStd.sv*
+*.autosave
+
+# FreeCAD temporary and generated files
+*.tmp
+*.temp
+*.log
+
+# Python cache files (for macros and workbenches)
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+*~
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.venv/
+venv/
