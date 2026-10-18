@@ -6,7 +6,9 @@ Front Panel for V12 with 7 Inch display for the T41-EP SDT software defined tran
 
 ## Parts
 Case https://www.amazon.com/Zulkit-Electronic-Enclosures-Enclosure-Preventive/dp/B08BS243RC (12.6x10.6x4.7)
+
 Glue https://www.amazon.com/dp/B0CBSGWZRW
+
 Inserts: https://www.amazon.com/gp/product/B0FWCG2K1F (300+6Pcs Brass Threaded Inserts M2 M2.5 M3 M4 M5 for 3D Printing)
 
 ## 3D prints
