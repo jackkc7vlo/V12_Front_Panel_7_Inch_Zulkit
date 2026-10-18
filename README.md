@@ -32,10 +32,11 @@ Orientation should be the outside of the panel should be top up for cleaner prin
 ![Board Holder 1](images/case4.jpg)
 
 4. I used M2.5 (H2.5) heated inserts (Length 2.5, Outer Width 3.5, Smooth Width 3.04)  for mounting the keypad and display.  A kit full of these is only $9 on Amazon.  If you don't want to use these, just drill the holes through and use screws and nuts for mounting.  After inserting the inserts, take a M2.5 screw and make sure they can be screwed into each hole, just in case a little plastic melting on the thread.  Much easier to do it now while its not in the case.
-5. Put labels on the case if you want.  I used clear DYMO labels.  However, if you don't don't spray paint a clear code on them.  It fades and yellows the labels.   If you have laser print labels, use them and then paint a clear coat to keep them from pealing off later.
-6. Take the lid off the Zulkit case and then remove the entire front panel.
-7. Put the the new panel on and make sure the screws and nuts are tightened.  This is very difficult to do once the parts are mounted.
-8. Mount all the front panel boards.  This is a little tricky but it does work. 
+5. Test fit the keypad.  If any of buttons are not mounded evenly, they may bind with the case.  You can resolder or just ream the holes a little bigger. You should feel each button click.  Don't leave the keypad in place or it will be very hard to mount the fron panel to the case.
+6. Put labels on the case if you want.  I used clear DYMO labels.  However, if you don't don't spray paint a clear code on them.  It fades and yellows the labels.   If you have laser print labels, use them and then paint a clear coat to keep them from pealing off later.
+7. Take the lid off the Zulkit case and then remove the entire front panel.
+8. Put the the new panel on and make sure the screws and nuts are tightened.  This is very difficult to do once the parts are mounted.
+9. Mount all the front panel boards.  This is a little tricky but it does work. 
 
 ![Board Holder 1](images/case3.jpg)
 
